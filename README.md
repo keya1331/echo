@@ -25,7 +25,7 @@ receive accurate transcription + translation in seconds.
 
 ---
 
-## ## fragments of the interface
+## fragments of the interface
 
 <p align="center">
   <img src="screens/t1.jpg" alt="screenshot 1" height="180px"/>
