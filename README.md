@@ -25,6 +25,16 @@ receive accurate transcription + translation in seconds.
 
 ---
 
+## ## fragments of the interface
+
+<p align="center">
+  <img src="t1.jpg" alt="screenshot 1" height="220px"/>
+  <img src="t2.jpg" alt="screenshot 2" height="220px"/>
+  <img src="t3.jpg" alt="screenshot 3" height="220px"/>
+</p>
+
+---
+
 ## tech stack  
 - react.js, tailwind  
 - web speech api  
