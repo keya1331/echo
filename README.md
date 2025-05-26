@@ -28,9 +28,9 @@ receive accurate transcription + translation in seconds.
 ## ## fragments of the interface
 
 <p align="center">
-  <img src="screens/t1.jpg" alt="screenshot 1" height="220px"/>
-  <img src="screens/t2.jpg" alt="screenshot 2" height="220px"/>
-  <img src="screens/t3.jpg" alt="screenshot 3" height="220px"/>
+  <img src="screens/t1.jpg" alt="screenshot 1" height="180px"/>
+  <img src="screens/t2.jpg" alt="screenshot 2" height="180px"/>
+  <img src="screens/t3.jpg" alt="screenshot 3" height="180px"/>
 </p>
 
 ---
